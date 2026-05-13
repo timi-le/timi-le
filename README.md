@@ -1,6 +1,6 @@
 # Timilehin Olapade
 
-Quantitative AI engineer. Founder and sole builder of ATRX, a production AI trading system live since November 2025 with over 600 executed trades. Combines deep ML engineering with quantitative finance through coursework at WorldQuant University.
+Quantitative AI engineer. Founder and builder of ATRX, a production AI quant platform live since November 2025 with over 600 executed trades. Combines deep ML engineering with quantitative finance through coursework at WorldQuant University.
 
 ---
 
@@ -28,7 +28,7 @@ Quantitative AI engineer. Founder and sole builder of ATRX, a production AI trad
 
 ## Background
 
-Founder and sole engineer at ATRX, a production AI trading system live since November 2025. Finance at Union Bank of Nigeria PLC, where data-driven analytical work supported cost optimizations exceeding 8 billion naira. MScFE candidate at WorldQuant University. Best Graduating Student in Business Administration at Adeleke University.
+Founder and engineer at ATRX, a production AI quant platform live since November 2025. Finance at Union Bank of Nigeria PLC, where data-driven analytical work supported cost optimizations exceeding 8 billion naira. MScFE candidate at WorldQuant University. Best Graduating Student in Business Administration at Adeleke University.
 
 ## Contact
 
@@ -40,4 +40,4 @@ Founder and sole engineer at ATRX, a production AI trading system live since Nov
 
 _Open to: technical consulting, ML infrastructure contracts, quantitative engineering engagements._
 
-_Not open to: cold recruiting messages, unpaid POCs, equity-only roles._
+_Not open to: unpaid POCs, equity-only roles._

@@ -28,7 +28,7 @@ Quantitative AI engineer. Founder and sole builder of ATRX, a production AI trad
 
 ## Background
 
-Founder and sole engineer at ATRX, a production AI trading system live since November 2025. Data and Analytics Engineer at Union Bank of Nigeria PLC, where data-driven analytical work supported cost optimizations exceeding 8 billion naira. MScFE candidate at WorldQuant University. Best Graduating Student in Business Administration at Adeleke University.
+Founder and sole engineer at ATRX, a production AI trading system live since November 2025. Finance at Union Bank of Nigeria PLC, where data-driven analytical work supported cost optimizations exceeding 8 billion naira. MScFE candidate at WorldQuant University. Best Graduating Student in Business Administration at Adeleke University.
 
 ## Contact
 

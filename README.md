@@ -22,11 +22,11 @@ Lead Quantitative Engineer. I architect deterministic trading infrastructure, sy
 
 
 ## Technical Infrastructure & Focus
-    Core Compute Stack: Python (production-optimized), C#/.NET, PostgreSQL, Docker, custom API / FIX protocol bridging.
 
-    Intelligence Matrix: XGBoost, LSTM, CNN ensembles, Hidden Markov Models (HMM) for regime switching, multi-model structural validation, and deterministic ML pipelines.
-
-    Systems Engineering: Low-latency transport layers, bare-metal deployment environments, dynamic state management, out-of-sample stress testing, and continuous adaptation loops.
+* **Causal Reasoning & Do-Calculus:** Built on a 32-node, 109-edge Directed Acyclic Graph (DAG) integrated with Microsoft Research's DoWhy framework. Formalizes Pearl's do-calculus $P(Y \mid \text{do}(X))$ to block back-door paths, run counterfactual queries, and mathematically eliminate spurious statistical co-movements.
+* **Microstructure Regime Detection:** Operates a 6-State Gaussian Hidden Markov Model (HMM) fitted on minute-frequency (M1) microstructure features. Dynamically updates intraday state transitions (Regimes Alpha through Zeta) to deactivate causal paths the moment structural decay occurs.
+* **MoE Neural Routing Layer:** Generates a real-time Macro Alignment Score $\alpha_{\text{macro}} \in [-1, 1]$ and Dynamic Confidence Scalar to dynamically scale position sizing across downstream expert models rather than relying on static risk limits.
+* **Core Compute & Latency Stack:** Engineered in Python and C++ , NetworkX topology routing, and high-frequency state ledgers. Executes full interventional pipelines—from ingestion to do-calculus propagation—within sub-second latency bounds.
 
 
 ## Deployment & Access
@@ -34,6 +34,8 @@ Lead Quantitative Engineer. I architect deterministic trading infrastructure, sy
 Infrastructure: atrx.tech
 
 Network: https://wwww.linkedin.com/in/taolapade
+
+[ATRX Technical Whitepaper](https://zenodo.org/records/21561542?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjU5NjIxNDljLTRkNGQtNGM2NS1iZWY3LWNmM2YyMzNkNWYzZiIsImRhdGEiOnt9LCJyYW5kb20iOiI0Y2JmYTZkZTQ3YTZlMGIyNTBmZGI4MzMyYzZiZTBmNiJ9._5-owMpGtk91ZgRb93XdR1HkiVscCa9qm0nhkdx8PSVT4JULhFsEgvdQ2Nf6JFk-fYiczHB3kbgYzeyFO91wTg)
 
 Direct: timilehinolapade40@gmail.com
 
